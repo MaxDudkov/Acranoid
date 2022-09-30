@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1625053455 source:/home/max/I509b/2 Sem/Proga/Arcanoid/main.cpp
+	<iostream>
+	<cstring>
+	<math.h>
+	<limits>
+	<stdlib.h>
+	<fstream>
+	<istream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
